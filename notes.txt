@@ -1,0 +1,17 @@
+The @ symbol is used for decorators.
+
+📌 Simple Definition:
+
+A decorator is a function that modifies another function without changing its code.
+A decorator in Python is a function that wraps another function to extend or modify its behavior without changing its actual code, and it is applied using the @ syntax.
+
+
+Recursion:
+Recursion is a programming technique in which a function calls itself to solve a problem.
+
+A recursive function always has two important parts:
+Base Case → the condition where the function stops calling itself.
+Recursive Case → the part where the function calls itself again.
+
+Simple definition:
+Recursion is a method where a function repeatedly calls itself until a stopping condition (base case) is reached.
