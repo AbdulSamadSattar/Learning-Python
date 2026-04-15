@@ -1,0 +1,6 @@
+var = ("Hello World")
+count = var.count("e")
+print(count)
+a= (input("Write Any Variable: "))
+count = var.count("a")
+print("No. of Occurence", a)

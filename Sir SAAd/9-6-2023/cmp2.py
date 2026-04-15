@@ -1,0 +1,5 @@
+x=tuple("asad")
+print(x)
+y=([1,2,3,4],'hello')
+print (y)
+print.cmp(y, x)

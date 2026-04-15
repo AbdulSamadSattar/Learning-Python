@@ -1,0 +1,2 @@
+# For CV
+print("Name:Abdul Samad\nCNIC No:42201-7684670-9\nFather's name:Abdul Sattar\nAddress:Plot 2/10,Survey 90,Golden Town,Karachi\n\t\'Eduction'\n\tMatriculation:Science\n\tPercentage in Matric:89.5\n\tIntermediate:Pre-Engineering with 87.1%\n\tlast Institute:SITT DAE(Mechanical)\n\'Experience:'\n\t1.Two years Teaching Experience\n\t2.6 months as a Sub Engineer\n\'Certificates'\n\t1.Freelancing from Digiskill\n\t2.Digital Marketing from Google ")

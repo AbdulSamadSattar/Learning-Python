@@ -1,0 +1,2 @@
+#1.1Print the poem "twinkle twinkle little star" with the print function and \n, \t.
+print ( "\n\t\tPoem: \tTwinkle Twinkle Little Star \n\n\n\tTwinkle Twinkle Little Star,\n\n\tHow I wonder what you are!\n\n\tUp above the world so high,\n\n\tLike a diamond in the sky.")
