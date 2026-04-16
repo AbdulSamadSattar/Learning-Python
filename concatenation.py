@@ -1,5 +1,0 @@
-print("You are going to learn about sep= end= \\n, \\b, \\r , \\n , \\t ")
-print("\n","\'Hi\'",'My','Name'+"is" + "AbdulSamad",end = "")
-print('roll no', 10 , '\ndeptid', 2,end="")
-# print("You will learn" + "concatenation"+ "sep = ''n ")
-# print("")
