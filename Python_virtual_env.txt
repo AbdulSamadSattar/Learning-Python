@@ -1,0 +1,11 @@
+In cmd of current folder 
+
+python -m venv myenv
+
+myenv\Scripts\Activate.ps1
+or
+myenv\Scripts\activate.bat
+
+pip install jupyter ipykernel
+
+python -m ipykernel install --user --name=myenv --display-name "Python (myenv)"
