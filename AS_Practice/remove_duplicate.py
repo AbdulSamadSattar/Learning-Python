@@ -5,5 +5,15 @@ for number in numbers:
     if number not in unique_list:
         unique_list.append(number)
 
+print(unique_list)
 for number in unique_list:
     print(number)
+    
+    
+# Output:
+# 
+# [2, 5, 7, 9]
+# 2
+# 5
+# 7
+# 9
